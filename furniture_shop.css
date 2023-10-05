@@ -1,0 +1,24 @@
+h2{
+    margin:auto;
+    width:450px;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    padding-top: 275px;
+    
+}
+.subtitle{
+    margin:auto;
+    width:150px;
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.one{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.2)),url('./images/furniture_shop_image.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    color:#eff3f2;
+}
